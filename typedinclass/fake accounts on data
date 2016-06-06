@@ -1,0 +1,3 @@
+grant all privileges on stream.* TO 'LOL'@'localhost' IDENTIFIED BY 'WAZUP'; 
+grant all privileges on stream.* TO 'GTFO'@'localhost' IDENTIFIED BY 'WAZUP'; 
+grant all privileges on stream.* TO 'IDK'@'localhost' IDENTIFIED BY 'WAZUP'; 
