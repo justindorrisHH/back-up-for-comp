@@ -1,0 +1,71 @@
+body {
+ margin: 0;
+background:#fff;
+     background-size: 1440px 800px;
+     background-repeat:no-repeat;
+	display: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: 007d50;
+}
+.navbar-default{	 
+	font: 14x "Arial", Helvetica, Arial, sans-serif;
+	
+	background-color:#45477; 
+}
+
+.navbar-default .navbar-nav>li>a {
+	background-color:#0000ff;
+	color: #fff;
+}
+
+pre {
+font-size:14px;
+	background-color:#ffffff;
+	border-color:#0000ff;
+	color: #0000ff;
+	border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-inverse{
+background-color:#eae0c4;
+border-color:#203731;
+}	
+
+.navbar-inverse .navbar-brand{
+color:#FFB612;
+}
+
+.btn-default{
+background-color:#fff;
+	color:#00f;
+	border-color: #00f;
+	   border-width: 2px;
+    border-radius: 10px;
+}
+
+.btn-default:hover{
+background-color:#fff;
+	color:#000;
+	border-color: #00f;
+	   border-width: 2px;
+    border-radius: 10px;
+}
+
+.btn-danger{
+background-color:#fff;
+	color:#f00;
+	border-color: #ff0000;
+	   border-width: 3px;
+    border-radius: 10px;
+}
+
+.btn-danger:hover{
+background-color:#fff;
+	color:#000;
+	border-color: #ff0000;
+	   border-width: 3px;
+    border-radius: 10px;
+}

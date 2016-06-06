@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sierra</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="dist/css/custom.css" >
+
+  <script src="dist/ajax/jquery.min.js"></script>
+  <script src="dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<!--  menu 1-->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#"  target = "_blank">Home</a></li>
+      <li><a href="#" target = "_blank">PMA</a></li>
+      <li><a href="#" target = "_blank">*.github.io</a></li>
+      <li><a href="#" target = "_blank">NodeServer</a></li>
+       <li><a href="../logs/" target = "iframeA">logs</a></li>
+		<li><a href="downloads/" t target = "iframeA">downloads</a></li>
+         <li><a href="#" target = "_blank">Ethics</a></li>
+         <li><a href="contact.html" target = "iframeA" >Contact</a></li>
+          <li><a href="login/" target = "_blank">Login</a></li>
+          <li> <img src = "images/logo.png" height ="50">
+    </ul></li>
+         
+    </ul>
+  </div>
+</nav>
+	<!--  end menu 1-->
+<div class="container">
+	
+  <h6>
+	  PMA (phpMyAdmin) &nbsp;&nbsp;&nbsp;logs (Network logs from crontab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+</h6>
+<!-- buttons -->
+ <div class="container">
+ <!-- -->
+<a href = "#"  target = "_blank">
+ <button type="button" class="btn btn-primary btn-md">Google Site </button>
+  </a>
+ <!-- -->
+<a href = "#"  target = "_blank">
+ <button type="button" class="btn btn-primary btn-md">Drupal Test</button>
+  </a>
+ <!-- -->
+<a href = "#"  target = "_blank">
+ <button type="button" class="btn btn-primary btn-md">Links</button>
+  </a>
+ <!-- -->
+ <a href = "html-codes.html"  target = "_blank">
+ <button type="button" class="btn btn-primary btn-md">html codes</button>
+ html codes source:http://ascii.cl/
+  </a>
+ <!-- -->
+ </div>
+ <!-- end buttons -->
+ <!-- iframe -->
+ <div class="embed-responsive embed-responsive-16by9">
+  <iframe name="iframeA" class="embed-responsive-item" src="info.html"  ></iframe>
+</div>
+ <!--iframe -->
+ 
+<img src = "images/background.png" width= "640">
+</div>
+
+</body>
+</html>

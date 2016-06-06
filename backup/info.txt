@@ -1,0 +1,38 @@
+<pre>
+* Localhost Web Site Requirement
+* All web pages are required to use Bootstrap
+* Professional  (No Jokes)
+Try to use _blank targets or target to iframeA
+<font color = "#ff0000">
+&#60a href = "logs/" target = "_blank"&#62 Logs&#60/a&#62
+&#60a href = "downloads/" target = "iframeA"&#62 Downloads&#60/a&#62
+</font>
+Links:
+- Link to google site 
+- Link to user.github.io
+- Link to node server (port 8080 or 3000)
+- Link to other local network web sites (10.183.1.26) 
+- Link to phpMyAdmin
+- Link to Drupal 
+- Link to downloads  (protected with htaccess)
+- add a README.html to the downloads directory
+- Authenication link
+- Link to /home/user/html/logs (code from crontab)
+- Contact (do not put phone numbers or addresses) use github.email
+- Ethics statement posted in contact link or a separate link
+- Redirecttion Apache to ssl
+
+You can put extra content on your site. (No Jokes)
+
+<hr />
+
+apachectl -V
+		Server version: Apache/2.4.6 (CentOS)
+		Server built:   Nov 19 2015 21:43:13
+		Server's Module Magic Number: 20120211:24
+		Server loaded:  APR 1.4.8, APR-UTIL 1.5.2
+		Compiled using: APR 1.4.8, APR-UTIL 1.5.2
+		Architecture:   64-bit
+		
+		
+</pre>
